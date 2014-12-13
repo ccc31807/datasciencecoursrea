@@ -1,3 +1,3 @@
-EAD ME 
+READ ME 
 
 This is a README file.
